@@ -4,3 +4,13 @@ primer modificacion user1
 segunda modificacion user1
 primer modificacion user3
 segunda modificacion user3
+primer modificacion user1
+segunda modificacion user1
+primer modificacion user1
+segunda modificacion user1
+primer modificacion user3
+segunda modificacion user3
+primer moificacion user 2 commit 8
+segunda modificacion user2 commit 9
+commit 12 user2
+commit 13 user2 con push
